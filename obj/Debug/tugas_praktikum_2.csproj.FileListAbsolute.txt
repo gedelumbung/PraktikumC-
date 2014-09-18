@@ -1,0 +1,9 @@
+C:\Users\FVCK-32\Documents\SharpDevelop Projects\tugas_praktikum_2\bin\Debug\tugas_praktikum_2.exe
+C:\Users\FVCK-32\Documents\SharpDevelop Projects\tugas_praktikum_2\bin\Debug\tugas_praktikum_2.pdb
+C:\Users\FVCK-32\Documents\SharpDevelop Projects\tugas_praktikum_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FVCK-32\Documents\SharpDevelop Projects\tugas_praktikum_2\obj\Debug\tugas_praktikum_2.MainForm.resources
+C:\Users\FVCK-32\Documents\SharpDevelop Projects\tugas_praktikum_2\obj\Debug\tugas_praktikum_2.csproj.GenerateResource.Cache
+C:\Users\FVCK-32\Documents\SharpDevelop Projects\tugas_praktikum_2\obj\Debug\tugas_praktikum_2.exe
+C:\Users\FVCK-32\Documents\SharpDevelop Projects\tugas_praktikum_2\obj\Debug\tugas_praktikum_2.pdb
+C:\Users\FVCK-32\Documents\SharpDevelop Projects\tugas_praktikum_2\obj\Debug\tugas_praktikum_2.Karyawan.resources
+C:\Users\FVCK-32\Documents\SharpDevelop Projects\tugas_praktikum_2\obj\Debug\tugas_praktikum_2.Lembur.resources
